@@ -1,0 +1,189 @@
+%-------------------------
+% Credits: https://github.com/sb2nov/resume for starter code
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontspec}
+\usepackage{fontawesome}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-------------------------
+\begin{center}
+	\textbf{\huge Jaymin Suhagiya}  \\
+	%\faGlobe \space \href{https://imdeep2905.github.io/}{imdeep2905.github.io } |  
+	\faGithub \space \href{https://github.com/jayminSuhagiya}{github.com/jayminSuhagiya} |
+	\faLinkedinSquare \space \href{https://www.linkedin.com/in/jaymin-suhagiya-809a25144/}{linkedin.com/in/jaymin-suhagiya} \\
+	\faPhone \space \texttt{+}91-9664793283 |
+	\faEnvelope \space \href{mailto:jayminsuhagiya.ict17@gmail.com}{jayminsuhagiya.ict17@gmail.com} \\
+	Proficient in {\bf Python} and {\bf C/C\texttt{++} } 
+\end{center}
+%-------------------------------------------
+
+%-----------EDUCATION-----------------------
+\section{Education}
+\resumeSubHeadingListStart
+    \resumeSubheading
+    {Adani Institute of Infrastructure Engineering}{Ahmedabad, India}
+	{B.E. in Information and Communication Technology;  CGPA: 9.42/10.0}{Aug. 2017 - Present}
+\resumeSubHeadingListEnd
+%-------------------------------------------
+
+%-----------EXPERIENCE----------------------
+\section{Experience}
+\resumeSubHeadingListStart
+	
+	%%% 1 %%%
+	%\resumeSubheading
+    %{FutureAPI}{Bengalore, India}
+    %{Machine Learning Intern}{Oct 2020 - Present}
+    %\resumeItemListStart
+    %     \item TODO
+    %\resumeItemListEnd
+    
+	%%% 2 %%%
+	\resumeSubheading
+    {IIT-BHU \href{https://docs.google.com/viewer?url=https://github.com/imdeep2905/resume/blob/master/docs/SWMLIT_certi.pdf?raw=true}{\faCertificate}}{Varanasi, India}
+    {Summer Workshop cum Internship}{June 2020 - July 2020}
+    \resumeItemListStart
+         \item Worked on the project ``{\bf Character Recognition on Time Series Sensor Data collected from Smartphone Sensors}''.
+         \item Achieved accuracy of {\bf 93.60\%} on training data and {\bf 89.51\%} on testing data after experimenting with {\bf LSTM, GRU, Bidirectional LSTM and Conv-LSTM} based models using {\bf Tensorflow}.
+    \resumeItemListEnd
+    
+\resumeSubHeadingListEnd
+%-------------------------------------------
+
+%-----------PROJECTS------------------------
+\section{Projects}
+\resumeSubHeadingListStart
+	%%% 1 %%%
+%	\item {\bf Neural Network Sandbox \href{https://github.com/imdeep2905/Neural-Network-Sandbox}{\faGithub} | Python, Tensorflow, Pandas, Matplotlib, Kivy} 
+%	\begin{itemize}
+%		  \vspace*{-0.25cm}
+%		\item This project provides {\bf GUI} for creating and training simple {\bf feed forward neural networks}.
+%		\item Various {\bf hyper-parameters} can be tweaked from the GUI itself. It also supports {\bf visualization} of the {\bf network and training/testing statistics}.
+%	\end{itemize}
+	
+	%%% 2 %%%
+	\item {\bf Knapsack Container Loading Problem \href{https://github.com/imdeep2905/Coding-Challenge-Team-Vanished-Gradient}{\faGithub} \href{https://docs.google.com/viewer?url=https://github.com/imdeep2905/resume/blob/master/docs/CodingChallenge_certi.pdf?raw=true}{\faCertificate} | C\texttt{++}, Python, Matplotlib, tkinter} 
+	\begin{itemize}
+		  \vspace*{-0.25cm}
+		\item We gave {\bf heuristic solution} for Knapsack Container Loading Problem which is {\bf NP-Hard}.
+		\item Our solution has support for both the {\bf GUI} and the {\bf solution visualisation}.
+		\item It was developed in the {\bf team of 2} as a part of competition held at our college. We {\bf won the competition} by scoring {\bf 19/20}.
+	\end{itemize}
+	
+	%%% 3 %%%
+		\item {\bf Neural Networks from Scratch \href{https://github.com/imdeep2905/Neural-Network-CPP}{\faGithub} \href{https://thealgorithms.github.io/C-Plus-Plus/d4/df4/classmachine__learning_1_1neural__network_1_1_neural_network.html}{\faGlobe} | C\texttt{++}} 
+	\begin{itemize}
+		  \vspace*{-0.25cm}
+		\item To understand neural networks thoroughly I implemented them {\bf from scratch}. 
+		\item Implemented various features like {\bf Mini-Batch Gradient Descent optimizer}, {\bf MSE loss function}, {\bf csv file support}, {\bf supporting vector operations} and {\bf model saving/loading support}.
+		\item Contributed my code to \href{https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/machine_learning/neural_network.cpp}{\bf The Algorithms Open Source Organization}.
+	\end{itemize}
+
+	%%% 4 %%%
+		\item {\bf Digit Recognizer \href{https://github.com/imdeep2905/Digit-Recognizer}{\faGithub} | Python, Tensorflow, OpenCV, tkinter} 
+	\begin{itemize}
+		  \vspace*{-0.25cm}
+		\item A little project which {\bf implements ML model} (trained on ``Hello World of ML'' - MNIST Digit Dataset) in {\bf real life}.
+		\item Have {\bf GUI} which {\bf supports drawing, capturing from camera and selecting existing photo of the digit}.
+	\end{itemize}
+	
+\resumeSubHeadingListEnd
+
+%-------------------------------------------
+
+%--------PROGRAMMING SKILLS-----------------
+\section{Skills}
+\resumeSubHeadingListStart
+	\item {{\bf Proficient:} Python, C/C\texttt{++}, git protocol, Keras API}
+	\vspace*{-0.25cm}
+	\item {{\bf Intermediate:} Tensorflow, HTML5, Flask}
+	\vspace*{-0.25cm}
+	\item {{\bf Beginner:} Java, JavaScript, CSS3, Bootstrap4}
+\resumeSubHeadingListEnd
+%-------------------------------------------
+
+%--------ACHIEVEMENTS-----------------------
+\section{Achievements}
+\resumeSubHeadingListStart
+\item {\bf Best academic performer} in $2^{nd}$, $5^{th}$ and $6^{th}$ semester.
+\vspace*{-0.25cm}
+\item Got {\bf fees waived off} under TFW scheme.
+\vspace*{-0.25cm}
+\item As a result of being in top 1\% of the School Board at class XII Level I {\bf received scholarship offer from the goverment of India worth Rs. 400,000 under INSPIRE scheme.}
+\resumeSubHeadingListEnd
+%-------------------------------------------
+\end{document}
