@@ -1,84 +1,14 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.6.29) (format=lualatex 2020.10.8)  9 OCT 2020 10:30
- restricted system commands enabled.
-**resume.tex
-(./resume.tex
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.10.8)  15 OCT 2020 15:17
+entering extended mode
+**./resume.tex
+(resume.tex
 LaTeX2e <2020-02-02> patch level 5
-Lua module: luaotfload-main 2020-05-06 3.14 luaotfload entry point
-Lua module: luaotfload-init 2020-05-06 3.14 luaotfload submodule / initializatio
-n
-Lua module: lualibs 2020-05-01 2.71 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2020-05-01 2.71 ConTeXt Lua libraries -- extended c
-ollection.
-Lua module: luaotfload-log 2020-05-06 3.14 luaotfload submodule / logging
-Lua module: luaotfload-parsers 2020-05-06 3.14 luaotfload submodule / filelist
-Lua module: luaotfload-configuration 2020-05-06 3.14 luaotfload submodule / conf
-ig file reader
-luaotfload | conf : Root cache directory is "C:/Users/jaymin/AppData/Local/MiKTe
-X/luatex-cache/generic-dev/names".
-luaotfload | init : Loading fontloader "fontloader-2020-05-06.lua" from kpse-res
-olved path "C:/Program Files/MiKTeX/tex/luatex/luaotfload/fontloader-2020-05-06.
-lua".
-Lua-only attribute luaotfload@noligature = 1
-Lua-only attribute luaotfload@syllabe = 2
-luaotfload | init : Context OpenType loader version 0x1.8e353f7ced917p+1
-Lua module: luaotfload-fallback 2020-05-06 3.14 luaotfload submodule / fallback
-Lua module: luaotfload-multiscript 2020-05-06 3.14 luaotfload submodule / multis
-cript
-Lua module: luaotfload-script 2020-05-06 3.14 luaotfload submodule / Script help
-ers
-Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
-Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Lua module: luaotfload-loaders 2020-05-06 3.14 luaotfload submodule / callback h
-andling
-Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua module: luaotfload-database 2020-05-06 3.14 luaotfload submodule / database
-Lua module: luaotfload-unicode 2020-05-06 3.14 luaotfload submodule / Unicode he
-lpers
-Lua module: luaotfload-colors 2020-05-06 3.14 luaotfload submodule / color
-Lua-only attribute luaotfload_color_attribute = 3
-Lua module: luaotfload-resolvers 2020-05-06 3.14 luaotfload submodule / resolver
-s
-luaotfload | conf : Root cache directory is "C:/Users/jaymin/AppData/Local/MiKTe
-X/luatex-cache/generic-dev/names".
-Lua module: luaotfload-features 2020-05-06 3.14 luaotfload submodule / features
-Lua module: luaotfload-harf-define 2020-05-06 3.14 luaotfload submodule / databa
-se
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
-Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
-Lua module: luaotfload-harf-plug 2020-05-06 3.14 luaotfload submodule / database
-Inserting `Harf pre_output_filter callback' at position 1 in `pre_output_filter'
-.
-Inserting `Harf wrapup_run callback' at position 1 in `wrapup_run'.
-Inserting `Harf finish_pdffile callback' at position 1 in `finish_pdffile'.
-Inserting `Harf glyph_info callback' at position 1 in `glyph_info'.
-Lua module: luaotfload-letterspace 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-embolden 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-notdef 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-suppress 2020-05-06 3.14 luaotfload submodule / suppress
-Lua module: luaotfload-szss 2020-05-06 3.14 luaotfload submodule / color
-Lua module: luaotfload-auxiliary 2020-05-06 3.14 luaotfload submodule / auxiliar
-y functions
-Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
-font'.
-Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
-t'.
-Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
-_font'.
-Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
-t_unsafe'.
-Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
-'.
-Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Lua module: luaotfload-tounicode 2020-05-06 3.14 luaotfload submodule / tounicod
-e
-Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2020-07-17>
-("C:/Program Files/MiKTeX/tex/latex/base/article.cls"
+L3 programming layer <2020-07-17>
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:/Program Files/MiKTeX/tex/latex/base/size11.clo"
+("C:\Program Files\MiKTeX\tex/latex/base\size11.clo"
 File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from C:/Users/jaymin/AppData/Local/
-MiKTeX/luatex-cache/generic-dev/names/luaotfload-names.luc)
+)
 \c@part=\count164
 \c@section=\count165
 \c@subsection=\count166
@@ -91,17 +21,17 @@ MiKTeX/luatex-cache/generic-dev/names/luaotfload-names.luc)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-("C:/Program Files/MiKTeX/tex/latex/base/latexsym.sty"
+("C:\Program Files\MiKTeX\tex/latex/base\latexsym.sty"
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/preprint/fullpage.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/preprint\fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip49
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/titlesec/titlesec.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box45
 \beforetitleunit=\skip50
@@ -113,30 +43,30 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidthlast=\dimen138
 \titlewidthfirst=\dimen139
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/marvosym/marvosym.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/marvosym\marvosym.sty
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
-("C:/Program Files/MiKTeX/tex/latex/graphics/color.sty"
+("C:\Program Files\MiKTeX\tex/latex/graphics\color.sty"
 Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
-("C:/Program Files/MiKTeX/tex/latex/graphics-cfg/color.cfg"
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: luatex.def on input line 147.
+Package color Info: Driver file: xetex.def on input line 147.
 
-("C:/Program Files/MiKTeX/tex/latex/graphics-def/luatex.def"
-File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\xetex.def"
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 )
-("C:/Program Files/MiKTeX/tex/latex/graphics/dvipsnam.def"
+("C:\Program Files\MiKTeX\tex/latex/graphics\dvipsnam.def"
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-("C:/Program Files/MiKTeX/tex/latex/tools/verbatim.sty"
+("C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty"
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks16
 \verbatim@line=\toks17
 \verbatim@in@stream=\read2
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/enumitem/enumitem.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitkv@toks@=\toks18
 \labelindent=\skip52
@@ -146,62 +76,61 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count172
 \enitdp@description=\count173
 )
-("C:/Program Files/MiKTeX/tex/latex/hyperref/hyperref.sty"
+("C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty"
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-("C:/Program Files/MiKTeX/tex/generic/iftex/iftex.sty"
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-("C:/Program Files/MiKTeX/tex/generic/pdftexcmds/pdftexcmds.sty"
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
 
-
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/infwarerr/infwarerr.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks20
+Package pdftexcmds Info: \pdfdraftmode not found.
 )
-("C:/Program Files/MiKTeX/tex/latex/graphics/keyval.sty"
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
+\KV@toks@=\toks20
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/kvsetkeys/kvsetkeys.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/kvdefinekeys/kvdefinekeys.s
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.s
 ty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/pdfescape/pdfescape.sty
+) (C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/hycolor/hycolor.sty
+) (C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/letltxmacro/letltxmacro.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/auxhook/auxhook.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/kvoptions/kvoptions.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
 \@linkdim=\dimen141
 \Hy@linkcounter=\count174
 \Hy@pagecounter=\count175
 
-("C:/Program Files/MiKTeX/tex/latex/hyperref/pd1enc.def"
+("C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def"
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/intcalc/intcalc.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/etexcmds/etexcmds.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count176
@@ -214,19 +143,19 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
 \c@Hy@tempcnt=\count177
 
-("C:/Program Files/MiKTeX/tex/latex/url/url.sty"
+("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen142
 
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/bitset/bitset.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
-
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count178
 \Field@Width=\dimen143
@@ -240,47 +169,49 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6372.
 Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/atbegshi/atbegshi.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/atbegshi\atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
 \Hy@abspage=\count179
 \c@Item=\count180
 \c@Hfootnote=\count181
 )
-Package hyperref Info: Driver (autodetected): hluatex.
+Package hyperref Info: Driver (autodetected): hxetex.
 
-("C:/Program Files/MiKTeX/tex/latex/hyperref/hluatex.def"
-File: hluatex.def 2020-05-15 v7.00e Hyperref driver for luaTeX
+("C:\Program Files\MiKTeX\tex/latex/hyperref\hxetex.def"
+File: hxetex.def 2020-05-15 v7.00e Hyperref driver for XeTeX
 
-("C:/Program Files/MiKTeX/tex/latex/hyperref/puenc.def"
+("C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def"
 File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
-
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/atveryend/atveryend.sty
+)
+\pdfm@box=\box47
+\c@Hy@AnnotLevel=\count182
+\HyField@AnnotCount=\count183
+\Fld@listcount=\count184
+\c@bookmark@seq@number=\count185
+
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck
+.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/atveryend\atveryend.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
-\Fld@listcount=\count182
-\c@bookmark@seq@number=\count183
-
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck
-.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/uniquecounter/uniquecounter
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter
 .sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
-6.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
 )
 \Hy@SectionHShift=\skip53
-) (C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
-
+) (C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
 \f@nch@headwidth=\skip54
 \f@nch@O@elh=\skip55
 \f@nch@O@erh=\skip56
@@ -290,196 +221,125 @@ Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@O@erf=\skip60
 \f@nch@O@olf=\skip61
 \f@nch@O@orf=\skip62
-) ("C:/Program Files/MiKTeX/tex/generic/babel/babel.sty"
+) ("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
 Package: babel 2020/07/13 3.47 The Babel package
 
-("C:/Program Files/MiKTeX/tex/generic/babel/babel.def"
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
 File: babel.def 2020/07/13 3.47 Babel common definitions
-
-("C:/Program Files/MiKTeX/tex/generic/babel/luababel.def"
-\bbl@readstream=\read3
-\l@afrikaans=\language2
-Package babel Info: Non-standard hyphenation setup on input line 117.
-\l@ancientgreek=\language3
-\l@armenian=\language4
-\l@assamese=\language5
-\l@basque=\language6
-\l@belarusian=\language7
-\l@bengali=\language8
-\l@bokmal=\language9
-\l@bulgarian=\language10
-\l@catalan=\language11
-\l@churchslavonic=\language12
-\l@classiclatin=\language13
-\l@coptic=\language14
-\l@croatian=\language15
-\l@czech=\language16
-\l@danish=\language17
-\l@dutch=\language18
-\l@esperanto=\language19
-\l@estonian=\language20
-\l@ethiopic=\language21
-\l@finnish=\language22
-\l@french=\language23
-\l@friulan=\language24
-\l@galician=\language25
-\l@georgian=\language26
-\l@german=\language27
-\l@greek=\language28
-\l@gujarati=\language29
-\l@hindi=\language30
-\l@hungarian=\language31
-\l@icelandic=\language32
-\l@indonesian=\language33
-\l@interlingua=\language34
-\l@irish=\language35
-\l@italian=\language36
-\l@kannada=\language37
-\l@kurmanji=\language38
-\l@latin=\language39
-\l@latvian=\language40
-\l@lithuanian=\language41
-\l@liturgicallatin=\language42
-\l@macedonian=\language43
-\l@malayalam=\language44
-\l@marathi=\language45
-\l@mongolian=\language46
-\l@mongolianlmc=\language47
-\l@monogreek=\language48
-\l@ngerman=\language49
-\l@nynorsk=\language50
-\l@occitan=\language51
-\l@oriya=\language52
-\l@pali=\language53
-\l@panjabi=\language54
-\l@piedmontese=\language55
-\l@polish=\language56
-\l@portuguese=\language57
-\l@romanian=\language58
-\l@romansh=\language59
-\l@russian=\language60
-\l@sanskrit=\language61
-\l@serbian=\language62
-\l@serbianc=\language63
-\l@slovak=\language64
-\l@slovenian=\language65
-\l@spanish=\language66
-\l@swedish=\language67
-\l@swissgerman=\language68
-\l@tamil=\language69
-\l@telugu=\language70
-\l@thai=\language71
-\l@turkish=\language72
-\l@turkmen=\language73
-\l@ukenglish=\language74
-\l@ukrainian=\language75
-\l@uppersorbian=\language76
-\l@usenglishmax=\language77
-\l@welsh=\language78
-\babelcatcodetablenum=\catcodetable12
-\bbl@pattcodes=\catcodetable13
-)
-\babel@savecnt=\count184
+\babel@savecnt=\count186
 \U@D=\dimen145
 \l@babelnohyphens=\language79
 
-("C:/Program Files/MiKTeX/tex/generic/babel/luababel.def"
-\bbl@attr@locale=\attribute4
-))
+("C:\Program Files\MiKTeX\tex/generic/babel\xebabel.def"
+("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def"))
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count187
+
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:/Program Files/MiKTeX/tex/latex/arabi/bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of 
-babel
+("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
 )
-("C:/Program Files/MiKTeX/tex/latex/babel-english/english.ldf"
+("C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language74) on input line 105.
+(babel)             (\language73) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language74) on input line 108.
+(babel)             (\language73) on input line 108.
 ))
-("C:/Program Files/MiKTeX/tex/latex/tools/tabularx.sty"
+("C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty"
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 
-("C:/Program Files/MiKTeX/tex/latex/tools/array.sty"
+("C:\Program Files\MiKTeX\tex/latex/tools\array.sty"
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen146
-\ar@mcellbox=\box47
+\ar@mcellbox=\box48
 \extrarowheight=\dimen147
-\NC@list=\toks22
+\NC@list=\toks21
 \extratabsurround=\skip63
 \backup@length=\skip64
-\ar@cellbox=\box48
+\ar@cellbox=\box49
 )
 \TX@col@width=\dimen148
 \TX@old@table=\dimen149
 \TX@old@col=\dimen150
 \TX@target=\dimen151
 \TX@delta=\dimen152
-\TX@cols=\count185
-\TX@ftn=\toks23
+\TX@cols=\count188
+\TX@ftn=\toks22
 )
-("C:/Program Files/MiKTeX/tex/latex/fontspec/fontspec.sty"
-("C:/Program Files/MiKTeX/tex/latex/l3packages/xparse/xparse.sty"
-("C:/Program Files/MiKTeX/tex/latex/l3kernel/expl3.sty"
+("C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.sty"
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty"
+("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
 Package: expl3 2020-07-17 L3 programming layer (loader) 
 
-("C:/Program Files/MiKTeX/tex/latex/l3backend/l3backend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count186
-\l__pdf_internal_box=\box49
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-xdvipdfmx.def"
+File: l3backend-xdvipdfmx.def 2020-06-29 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count189
+\l__pdf_internal_box=\box50
+\g__pdf_backend_object_int=\count190
+\g__pdf_backend_annotation_int=\count191
 ))
 Package: xparse 2020-05-15 L3 Experimental document command parser
 
-("C:/Program Files/MiKTeX/tex/latex/l3packages/xparse/xparse-generic.tex"
-\l__xparse_current_arg_int=\count187
-\g__xparse_grabber_int=\count188
-\l__xparse_m_args_int=\count189
-\l__xparse_v_nesting_int=\count190
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"
+\l__xparse_current_arg_int=\count192
+\g__xparse_grabber_int=\count193
+\l__xparse_m_args_int=\count194
+\l__xparse_v_nesting_int=\count195
 ))
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
-("C:/Program Files/MiKTeX/tex/latex/fontspec/fontspec-luatex.sty"
-Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+
+("C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty"
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count191
-\l__fontspec_language_int=\count192
-\l__fontspec_strnum_int=\count193
-\l__fontspec_tmp_int=\count194
-\l__fontspec_tmpa_int=\count195
-\l__fontspec_tmpb_int=\count196
-\l__fontspec_tmpc_int=\count197
-\l__fontspec_em_int=\count198
-\l__fontspec_emdef_int=\count199
-\l__fontspec_strong_int=\count266
-\l__fontspec_strongdef_int=\count267
+\l__fontspec_script_int=\count196
+\l__fontspec_language_int=\count197
+\l__fontspec_strnum_int=\count198
+\l__fontspec_tmp_int=\count199
+\l__fontspec_tmpa_int=\count266
+\l__fontspec_tmpb_int=\count267
+\l__fontspec_tmpc_int=\count268
+\l__fontspec_em_int=\count269
+\l__fontspec_emdef_int=\count270
+\l__fontspec_strong_int=\count271
+\l__fontspec_strongdef_int=\count272
 \l__fontspec_tmpa_dim=\dimen153
 \l__fontspec_tmpb_dim=\dimen154
 \l__fontspec_tmpc_dim=\dimen155
 
-("C:/Program Files/MiKTeX/tex/latex/base/fontenc.sty"
+("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
-("C:/Program Files/MiKTeX/tex/latex/fontspec/fontspec.cfg")))
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/fontawesome/fontawesome.sty
+("C:\Program Files\MiKTeX\tex/latex/fontspec\fontspec.cfg")))
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/fontawesome\fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 
-("C:/Program Files/MiKTeX/tex/generic/iftex/ifxetex.sty"
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty"
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-("C:/Program Files/MiKTeX/tex/generic/iftex/ifluatex.sty"
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifluatex.sty"
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/fontawesome/fontawesomesymbol
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/fontawesome\fontawesomesymbol
 s-generic.tex)
-luaotfload | cache : Lookup cache loaded from C:/Users/jaymin/AppData/Local/MiKT
-eX/luatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
-luaotfload | aux : font no 28 (nil) defines no feature for script latn
-luaotfload | aux : font no 28 (nil) defines no feature for script dflt
+
+Package fontspec Info: Could not resolve font "FontAwesome/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FontAwesome/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "FontAwesome/I" (it probably
+(fontspec)             doesn't exist).
+
 
 Package fontspec Info: Font family 'FontAwesome(0)' created for font
 (fontspec)             'FontAwesome' with options [].
@@ -488,22 +348,13 @@ Package fontspec Info: Font family 'FontAwesome(0)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"FontAwesome:mode=node;language=dflt;"
+(fontspec)             <->"FontAwesome/OT:language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"FontAwesome/B:mode=node;language=dflt;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"FontAwesome/I:mode=node;language=dflt;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"FontAwesome/BI:mode=node;language=dflt;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/fontawesome/fontawesomesymbol
-s-xeluatex.tex)) (./resume.aux)
-\openout1 = resume.aux
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/fontawesome\fontawesomesymbol
+s-xeluatex.tex)) (resume.aux)
+\openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
 LaTeX Font Info:    ... okay on input line 80.
@@ -514,10 +365,9 @@ LaTeX Font Info:    ... okay on input line 80.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
 LaTeX Font Info:    ... okay on input line 80.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 80
-.
-
-("C:/Program Files/MiKTeX/tex/latex/base/ts1cmr.fd"
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+0.
+ ("C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 80.
@@ -531,42 +381,31 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
 LaTeX Font Info:    ... okay on input line 80.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
 LaTeX Font Info:    ... okay on input line 80.
-
-("C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count268
-\scratchdimen=\dimen156
-\scratchbox=\box50
-\nofMPsegments=\count269
-\nofMParguments=\count270
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count271
-\MPscratchDim=\dimen157
-\MPnumerator=\count272
-\makeMPintoPDFobject=\count273
-\everyMPtoPDFconversion=\toks25
-)
 \AtBeginShipoutBox=\box51
 Package hyperref Info: Link coloring OFF on input line 80.
- ("C:/Program Files/MiKTeX/tex/latex/hyperref/nameref.sty"
+ ("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/latex/refcount/refcount.sty
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:/Users/jaymin/AppData/Roaming/MiKTeX/tex/generic/gettitlestring/gettitlestri
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestri
 ng.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count274
+\c@section@level=\count273
 )
 LaTeX Info: Redefining \ref on input line 80.
 LaTeX Info: Redefining \pageref on input line 80.
 LaTeX Info: Redefining \nameref on input line 80.
- (./resume.out) (./resume.out)
+ (resume.out) (resume.out)
 \@outlinefile=\write3
+\openout3 = `resume.out'.
 
-\openout3 = resume.out
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
@@ -626,24 +465,28 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 80.
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 90.
+
+(C:\Users\jaymin\AppData\Roaming\MiKTeX\tex/generic/stringenc\se-ascii-print.de
+f
+File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
+
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 99.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 99.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 99.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 99.
-
-
-("C:/Program Files/MiKTeX/tex/latex/base/ulasy.fd"
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 99
+.
+ ("C:\Program Files\MiKTeX\tex/latex/base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Font shape `TU/FontAwesome(0)/bx/n' in size <10.95> not avai
-lable
-(Font)              Font shape `TU/FontAwesome(0)/b/n' tried instead on input li
-ne 118.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 193.
 
+LaTeX Font Warning: Font shape `TU/FontAwesome(0)/bx/n' undefined
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 118.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 193.
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
 Make it at least 4.08003pt.
@@ -652,39 +495,32 @@ This may cause the page layout to be inconsistent, however.
 
 [1
 
-{C:/Users/jaymin/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 193.
-
-(./resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 193.
+ (resume.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 193.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 193.
-Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 14B2742CB658411DF4FC5381EC383812;445.
+
+
+Package rerunfilecheck Warning: File `resume.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `resume.out':
+(rerunfilecheck)             Before: 14B2742CB658411DF4FC5381EC383812;445
+(rerunfilecheck)             After:  3655FE081218775EAE9ACC192EF22559;220.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 193.
-)
+ ) 
+Here is how much of TeX's memory you used:
+ 14134 strings out of 414506
+ 254778 string characters out of 2907748
+ 586402 words of memory out of 3000000
+ 31199 multiletter control sequences out of 15000+200000
+ 538633 words of font info for 58 fonts, out of 3000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 44i,11n,64p,370b,334s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Here is how much of LuaTeX's memory you used:
- 14863 strings out of 481315
- 100000,662416 words of node,token memory allocated
- 455 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 57 glue_spec,
- 4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1214,3:191,4:80,5:185,6:46,7:2848,8:17,9:218,10:22,11:183
- 31655 multiletter control sequences out of 65536+200000
- 55 fonts using 6062803 bytes
- 44i,11n,64p,351b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
-<//?/c:/program files/miktex/fonts/opentype/public/lm/lmroman10-italic.otf><//?/
-c:/program files/miktex/fonts/opentype/public/lm/lmromancaps10-regular.otf><//?/
-c:/program files/miktex/fonts/opentype/public/lm/lmmonolt10-bold.otf><//?/c:/pro
-gram files/miktex/fonts/opentype/public/lm/lmroman10-bold.otf><//?/c:/program fi
-les/miktex/fonts/opentype/public/lm/lmmono10-regular.otf><//?/c:/program files/m
-iktex/fonts/opentype/public/lm/lmroman10-regular.otf><C:/Users/jaymin/AppData/Ro
-aming/MiKTeX/fonts/opentype/public/fontawesome/fontawesome.otf><//?/c:/program f
-iles/miktex/fonts/opentype/public/lm/lmroman12-bold.otf><C:/Program Files/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (1 page, 55201 bytes).
-
-PDF statistics: 101 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 131072)
- 41 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+Output written on resume.pdf (1 page).
