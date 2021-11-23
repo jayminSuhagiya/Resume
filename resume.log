@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (MiKTeX 21.7) (format=lualatex 2021.10.18)  18 OCT 2021 22:53
+This is LuaHBTeX, Version 1.14.0 (MiKTeX 21.7) (format=lualatex 2021.10.18)  23 NOV 2021 23:51
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -461,7 +461,10 @@ Package fontspec Info: Font family 'FontAwesome(0)' created for font
 
 
 ("/Users/chirag/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fon
-tawesome/fontawesomesymbols-xeluatex.tex")) (./resume.aux)
+tawesome/fontawesomesymbols-xeluatex.tex")) (./resume.aux
+Package babel Info: No hyphenation patterns were set for
+(babel)             language 'english'. Reported on input line 21.
+)
 \openout1 = resume.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
@@ -589,15 +592,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 80.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 80.
-LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 90.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 99.
+(Font)              <10.95> on input line 97.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 99.
+(Font)              <8> on input line 97.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 99.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 99
+(Font)              <6> on input line 97.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 97
 .
 
 ("/Users/chirag/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
@@ -606,8 +607,10 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 
 LaTeX Font Warning: Font shape `TU/FontAwesome(0)/bx/n' undefined
-(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 129.
+(Font)              using `TU/FontAwesome(0)/m/n' instead on input line 125.
 
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 157.
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -629,42 +632,36 @@ Package babel Info: No hyphenation patterns were set for
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  6AA8ED2E1EE37A3B8E2E021659172363;543.
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: 6AA8ED2E1EE37A3B8E2E021659172363;543.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14322 strings out of 478120
+ 14329 strings out of 478120
  100000,794899 words of node,token memory allocated
  455 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 57 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:1541,3:520,4:194,5:649,6:116,7:9660,8:42,9:658,10:23,11:19
- 34213 multiletter control sequences out of 65536+600000
+   avail lists: 2:1526,3:517,4:194,5:622,6:112,7:9774,8:39,9:655,10:23,11:19
+ 34220 multiletter control sequences out of 65536+600000
  50 fonts using 5132959 bytes
  70i,11n,80p,367b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
-<</Users/chirag/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/p
-ublic/cm/dpi657/cmsy10.pk>></Users/chirag/Library/Application Support/MiKTeX/tex
-mfs/install/fonts/opentype/public/lm/lmroman10-italic.otf></Users/chirag/Library
-/Application Support/MiKTeX/texmfs/install/fonts/opentype/public/lm/lmromancaps1
-0-regular.otf></Users/chirag/Library/Application Support/MiKTeX/texmfs/install/f
-onts/opentype/public/lm/lmmonolt10-bold.otf></Users/chirag/Library/Application S
-upport/MiKTeX/texmfs/install/fonts/opentype/public/lm/lmroman10-bold.otf></Users
+</Users/chirag/Library/Application Support/MiKTeX/texmfs/install/fonts/opentype/
+public/lm/lmmonolt10-bold.otf><</Users/chirag/Library/Application Support/MiKTeX
+/texmfs/data/fonts/pk/ljfour/public/cm/dpi657/cmsy10.pk>></Users/chirag/Library/
+Application Support/MiKTeX/texmfs/install/fonts/opentype/public/lm/lmroman10-ita
+lic.otf></Users/chirag/Library/Application Support/MiKTeX/texmfs/install/fonts/o
+pentype/public/lm/lmroman10-bold.otf></Users/chirag/Library/Application Support/
+MiKTeX/texmfs/install/fonts/opentype/public/lm/lmromancaps10-regular.otf></Users
 /chirag/Library/Application Support/MiKTeX/texmfs/install/fonts/opentype/public/
 lm/lmmono10-regular.otf></Users/chirag/Library/Application Support/MiKTeX/texmfs
 /install/fonts/opentype/public/lm/lmroman10-regular.otf></Users/chirag/Library/A
 pplication Support/MiKTeX/texmfs/install/fonts/opentype/public/fontawesome/FontA
 wesome.otf></Users/chirag/Library/Application Support/MiKTeX/texmfs/install/font
 s/opentype/public/lm/lmroman12-bold.otf>
-Output written on resume.pdf (2 pages, 50669 bytes).
+Output written on resume.pdf (2 pages, 52168 bytes).
 
-PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 111 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 49 words of extra memory for PDF output out of 10000 (max. 100000000)
 
